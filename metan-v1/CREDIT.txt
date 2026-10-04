@@ -1,0 +1,2 @@
+VOICEVOX:四国めたん
+Word voices of NanteYomu, made with VOICEVOX (https://voicevox.hiroshiba.jp/).
